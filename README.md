@@ -22,7 +22,7 @@ This project presents a computational aerodynamic analysis of the ONERA M6 wing,
 
 ## ✈️ Background
 
-The **ONERA M6 Wing** is a standard test case in aerodynamic research, particularly for transonic flows where shock waves and boundary layer interactions are complex. This project leverages the wing’s design as a benchmark for CFD validation, focusing on Mach numbers of **0.7, 0.83, and 0.9** and angles of attack of **0, 3, and 6 degrees**. 
+The **ONERA M6 Wing** is a standard test case in aerodynamic research, particularly for transonic flows where shock waves and boundary layer interactions are complex. This project leverages the wing’s design as a benchmark for CFD validation, focusing on Mach numbers of **0.7, 0.84, and 0.92** and angles of attack of **0, 3, and 6 degrees**. 
 
 **Key Research Questions:**
 - How accurately do RANS models predict transonic flow characteristics?
